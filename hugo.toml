@@ -1,4 +1,6 @@
-baseURL = "https://promising-gif.github.io"  
+baseURL = "https://promising-gif.github.io/"
 languageCode = "zh-cn"
-title = "我的 Hugo 博客"
-theme = "hugo-PaperMod-master"   
+title = "我的Hugo博客"
+theme = "hugo-PaperMod-master"
+relativeURLs = true
+canonifyURLs = false
